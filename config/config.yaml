@@ -1,0 +1,25 @@
+config:
+
+    db:
+      mongodb: 1
+      mysql:   0
+
+    lang:
+      default_language: es
+
+    query:
+      policia
+      apps
+      appreview
+
+    filters:
+
+    user_filters:
+      0:
+        time_zone: Madrid
+
+    list:
+      #slug: arabe
+      #screen_name_owner: novia713
+
+    user: leandro

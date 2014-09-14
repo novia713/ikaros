@@ -1,0 +1,168 @@
+stdClass Object
+(
+    [metadata] => stdClass Object
+        (
+            [iso_language_code] => es
+            [result_type] => recent
+        )
+
+    [created_at] => Wed Mar 26 13:27:10 +0000 2014
+    [id] => 448813411355602944
+    [id_str] => 448813411355602944
+    [text] => La champeta, el ritmo que Colombia baila y escucha en todas partes, llegó a España @musichitfactory @MrMrBlack 
+http://t.co/V4EOxnnu7b
+    [source] => <a href="http://itunes.apple.com/us/app/twitter/id409789998?mt=12" rel="nofollow">Twitter for Mac</a>
+    [truncated] => 
+    [in_reply_to_status_id] => 
+    [in_reply_to_status_id_str] => 
+    [in_reply_to_user_id] => 
+    [in_reply_to_user_id_str] => 
+    [in_reply_to_screen_name] => 
+    [user] => stdClass Object
+        (
+            [id] => 82064072
+            [id_str] => 82064072
+            [name] => Poder de tu música
+            [screen_name] => poderdetumusica
+            [location] => Madrid
+            [description] => 'El periodista de las estrellas latinas en España'. vsanchez@elpoderdetumusica.com.
+            [url] => http://t.co/RvforjMFFm
+            [entities] => stdClass Object
+                (
+                    [url] => stdClass Object
+                        (
+                            [urls] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [url] => http://t.co/RvforjMFFm
+                                            [expanded_url] => http://www.elpoderdetumusica.com
+                                            [display_url] => elpoderdetumusica.com
+                                            [indices] => Array
+                                                (
+                                                    [0] => 0
+                                                    [1] => 22
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [description] => stdClass Object
+                        (
+                            [urls] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [protected] => 
+            [followers_count] => 2442
+            [friends_count] => 1973
+            [listed_count] => 26
+            [created_at] => Tue Oct 13 10:43:09 +0000 2009
+            [favourites_count] => 19
+            [utc_offset] => 3600
+            [time_zone] => Madrid
+            [geo_enabled] => 1
+            [verified] => 
+            [statuses_count] => 7722
+            [lang] => es
+            [contributors_enabled] => 
+            [is_translator] => 
+            [is_translation_enabled] => 
+            [profile_background_color] => C0DEED
+            [profile_background_image_url] => http://pbs.twimg.com/profile_background_images/802747222/84ca9e320a24548f8344a8eae3cdb004.jpeg
+            [profile_background_image_url_https] => https://pbs.twimg.com/profile_background_images/802747222/84ca9e320a24548f8344a8eae3cdb004.jpeg
+            [profile_background_tile] => 1
+            [profile_image_url] => http://pbs.twimg.com/profile_images/433981720476803072/yQsL0S_N_normal.jpeg
+            [profile_image_url_https] => https://pbs.twimg.com/profile_images/433981720476803072/yQsL0S_N_normal.jpeg
+            [profile_banner_url] => https://pbs.twimg.com/profile_banners/82064072/1362082674
+            [profile_link_color] => E600A9
+            [profile_sidebar_border_color] => FFFFFF
+            [profile_sidebar_fill_color] => F5DCEB
+            [profile_text_color] => 333333
+            [profile_use_background_image] => 1
+            [default_profile] => 
+            [default_profile_image] => 
+            [following] => 
+            [follow_request_sent] => 
+            [notifications] => 
+        )
+
+    [geo] => 
+    [coordinates] => 
+    [place] => 
+    [contributors] => 
+    [retweet_count] => 0
+    [favorite_count] => 0
+    [entities] => stdClass Object
+        (
+            [hashtags] => Array
+                (
+                )
+
+            [symbols] => Array
+                (
+                )
+
+            [urls] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [url] => http://t.co/V4EOxnnu7b
+                            [expanded_url] => http://elpoderdetumusica.com/la-champeta-el-ritmo-que-colombia-baila-y-escuha-en-todas-partes-llego-a-espana/
+                            [display_url] => elpoderdetumusica.com/la-champeta-el…
+                            [indices] => Array
+                                (
+                                    [0] => 112
+                                    [1] => 134
+                                )
+
+                        )
+
+                )
+
+            [user_mentions] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [screen_name] => musichitfactory
+                            [name] => Music Hit Factory 
+                            [id] => 18397018
+                            [id_str] => 18397018
+                            [indices] => Array
+                                (
+                                    [0] => 83
+                                    [1] => 99
+                                )
+
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [screen_name] => MrMrBlack
+                            [name] => Mr Black el presiden
+                            [id] => 553846827
+                            [id_str] => 553846827
+                            [indices] => Array
+                                (
+                                    [0] => 100
+                                    [1] => 110
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [favorited] => 
+    [retweeted] => 
+    [possibly_sensitive] => 
+    [lang] => es
+)
